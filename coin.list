@@ -1,4 +1,7 @@
 # 币圈相关网站
+DOMAIN-SUFFIX,fiat24.com
+DOMAIN-SUFFIX,web3auth.io
+DOMAIN-SUFFIX,web3modal.org
 DOMAIN-SUFFIX,dukascopy.bank
 DOMAIN-SUFFIX,dukascopy.online
 DOMAIN-SUFFIX,dukascopy.com
@@ -159,3 +162,12 @@ DOMAIN-SUFFIX,xdc.network
 DOMAIN-SUFFIX,safepal.com
 DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 DOMAIN-SUFFIX,liquidity-financial.com
+DOMAIN-SUFFIX,dash.org
+DOMAIN-SUFFIX,cryptoid.info
+DOMAIN-SUFFIX,dashblockexplorer.com
+DOMAIN-SUFFIX,coinexplorer.net
+DOMAIN-SUFFIX,neo.org
+DOMAIN-SUFFIX,neotube.io
+DOMAIN-SUFFIX,coz.io
+DOMAIN-SUFFIX,confluxnetwork.org
+DOMAIN-SUFFIX,confluxscan.io
