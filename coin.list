@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,gate.com
 DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,cex.io
 DOMAIN-SUFFIX,gatedata.org
 DOMAIN-SUFFIX,solana.com
 DOMAIN-SUFFIX,coinglass.com
@@ -182,3 +183,15 @@ DOMAIN-SUFFIX,hyperfoundation.org
 DOMAIN-SUFFIX,hyperliquid.xyz
 DOMAIN-SUFFIX,privy.io
 DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,arkm.com
+DOMAIN-SUFFIX,ethereum.org
+DOMAIN-SUFFIX,openzeppelin.com
+DOMAIN-SUFFIX,defillama.com
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,coinglass.com
+DOMAIN-SUFFIX,coinglasscdn.com
+DOMAIN-SUFFIX,ethdash.xyz
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,coinank.com
+DOMAIN-SUFFIX,fmz.com
+DOMAIN-SUFFIX,raydium.io
